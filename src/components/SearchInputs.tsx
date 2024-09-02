@@ -9,6 +9,7 @@ const SearchContainer = styled.div`
   justify-content: space-between;
   margin-bottom: 20px;
   gap: 10px;
+  
 `;
 
 const InputWrapper = styled.div`
